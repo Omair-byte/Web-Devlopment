@@ -1,0 +1,14 @@
+div {width: 500px;}
+
+.image1
+{
+    left: 50px;
+    position: relative;
+}
+
+.image2
+{
+    left: 300px;
+    position: relative;
+    bottom: 335px;
+}
