@@ -1,0 +1,75 @@
+.top_nav
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+
+.my_sky
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 30%;
+    width: 47%;
+
+}
+
+.block
+{
+    padding-left:15px;
+    display:grid;
+    grid-template-columns: 35% 35%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48%;
+}
+
+.login
+{
+    position : relative;
+    top: -675px;
+    margin-left: auto;
+    width: 40%;
+}
+
+form
+{
+    padding-top:55px;
+    padding-left: 15px;
+}
+
+.name_pass
+{
+    display:grid;
+    grid-template-columns: 12% 27%;
+    grid-row-gap: 10px;
+}
+
+.help
+{
+    font-size: 15px;
+    padding-top:12px;
+    display:grid;
+    grid-template-columns: 20% 20%;
+    grid-column-gap:2px;
+    grid-row-gap:9px;
+}
+
+.remember
+{
+    font-size: 13px;
+    padding-top: 5px;
+}
+
+.faqs
+{
+    padding-top: 25px;
+    font-size: 15px;
+    display:grid;
+    grid-template-columns: 5% 27%;
+    grid-row-gap: 10px;
+}
