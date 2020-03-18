@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adventure Classic Gaming</title>
+    <link rel="stylesheet" type="text/css"  href="style.css">
+</head>
+<body>
+
+    <div class="banner">
+        <img src="banner.gif"   height="150" width="900">
+    </div>
+
+    <div class="side_menu">
+        <img src="sidemenu.gif" height="150" width="200">
+    </div>
+
+    <div class="image1">
+        <img src="image1.gif" height="200px" width="200px">
+    </div>
+
+
+    <div class="text1">
+        <img src="current%20articles.PNG"
+    </div>
+
+    <div class="text2">
+        <h3> Join Our Team! </h3>
+        <div class="margin">
+        <p> We need your help! We are <br> now seeking talented <br> gamers to join our team as <br> volunteers to be editors or <br> contributors.
+            No prior <br> experience is required. If you <br> like to write about adventure <br> gaming for this site and see <br> your work read by your
+            fellow <br> adventure game fans <br>worldwide , read our <a href = "#"> authors' <br> instructions </a> and <a href = "#"> contact us </a> <br>
+            for further information. <p>
+        </div>
+    </div>
+    <div class="image2">
+        <img src="image2.gif" height="200px" width="200px">
+    </div>
+
+
+    <div class="text3">
+        <div class="text_color"><h4 color = "blue">Adventure game puzzles: Unlocking the<br>
+            secrets of puzzle design</h4></div>
+
+    <p> For a lot of games, you can figure out most of what you<br>
+        need to know about them from simply looking at an<br>
+        in-game screenshot or watching a gameplay trailer. With<br>
+        a quick glance at the head-up display and the quality of the<br>
+        graphics, you can get a good sense of what kind of<br>
+        monster killing mayhem you will be engaging in and what<br>
+        kind of experince you will likely get from playing the</p>
+    </div>
+
+</body>
+</html>
