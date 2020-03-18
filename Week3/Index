@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+		<link rel="StyleSheet" href="Stylle.css">
+	</head>
+		<body>
+		<div style="border:1px; border-style:solid;margin:10 px">
+		<div style="margin :7px">
+
+			<div class="page_header">
+			<h1> My First Web Page </h1>
+			</div>
+			<a name= "contents">
+				<font size="5"> <strong> Table of Contents</strong> </font>
+			</a>
+			<p><a href =#Resume> Resume</a><p>
+			
+			<p><a href =#Professional> Professional</a><p>
+			<p><a href =#Personal> Personal </a><p>
+			
+			<hr >
+			
+			<a name= "Resume">
+			<p><font size="5"> <strong> Resume</strong></font></p>
+			</a>
+			
+			<p><i><strong> Education: </strong></i></p>
+			<p> Education Credentials go here</p>
+			<i><strong> Experiance: </strong></i>
+			<p> Current and previous employment go here</p>
+			<i><strong> Skills: </strong></i>
+			<p> Computer,Software, and other skills go here</p>
+			<a href=#contents>Return To Table of Contents</a>
+			
+			<hr> 
+			
+			
+			
+			<a name="Professional">
+			<font size="5"> <strong> Professional</strong></font>
+			</a>
+			<p><i><strong> Goals: </strong></i></p>
+			<p> Future goals go here.</p>
+			<i><strong> Development: </strong></i>
+			<p> Courses and Certificate programs go here.</p>
+			<i><strong> Leadership: </strong></i>
+			<p> Leadership skills go here.</p>
+			<a href=#contents>Return To Table of Contents</a>
+			
+			<hr> 
+			
+			<a name="Personal">
+			<font size="5"> <strong> PERSONAL</strong></font>
+			</a>
+			<p><i><strong> Family: </strong></i></p>
+			<p> Immediate family members.</p>
+			<i><strong> Pets: </strong></i>
+			<p> Pet's Description go here.</p>
+			<i><strong> Hobbies: </strong></i>
+			<p>Hobbies go here</p>
+			<a href=#contents>Return To Table of Contents</a>
+			<object width="200" height="200" align="right"> 
+		</div>
+		</div>
+			
+		</body>
+	</html>
