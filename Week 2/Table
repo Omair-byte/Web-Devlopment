@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table</title>
+</head>
+<style>
+    table, th,td { border:1px solid black}
+</style>
+<body>
+
+<table style="width:100%" border="1">
+    <tr>
+        <th width="500" colspan="300" align="left">
+            Page Header
+        </th>
+    </tr>
+
+
+    <th align="left" rowspan="4">Menu</th>
+
+
+
+    <tr>
+        <th align="left" colspan="5" rowspan="1"> Advertisment Space</th>
+    </tr>
+
+
+
+    <tr>
+        <td align="left" rowspan="2">
+            Main Content
+            <p>(text and Images)</p>
+        </td>
+    </tr>
+
+
+    <tr>
+        <td align="center" rowspan="1" height="100">Blog</td>
+    </tr>
+
+    <tr>
+        <td align="left" colspan="100">Footer</td>
+    </tr>
+
+
+</table>
+</body>
+</html>
