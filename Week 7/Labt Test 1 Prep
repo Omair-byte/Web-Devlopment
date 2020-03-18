@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Homework</title>
+    <link rel="stylesheet" type="text/css"  href="style.css">
+</head>
+<body>
+        <div class="top_nav">
+            <img src="top_nav.jpg" height="150" width="800">
+        </div>
+        <div class="my_sky">
+            <img src="My_sky.jpg">
+        </div>
+        <div class="block">
+            <img src="block_1.jpg">
+            <img src="block_3.jpg">
+            <img src="block_2.jpg">
+            <img src="block_4.jpg">
+        </div>
+        <div class="login">
+            <img src="arrow.gif"><a href="">Login/Register</a>
+            <img src="arrow.gif"><a href="">Print this page</a>
+        <form>
+            <div class="name_pass">
+                <span>Username   </span><input type="text" name="username" placeholder="Enter your username here" required="required" />
+                <span>Password    </span><input type="text" name="password" required="required" />
+            </div>
+            <div class="help">
+                <a href=" ">Username Help</a>
+                <a href=" ">Password Help</a>
+                < href="  ">Register Today</a>
+            </div>
+            <div class="remember">
+                <input type="checkbox" name="remember">
+                <span>Remember Me</span>
+            </div>
+            <div class="faqs">
+                <img src="arrow.gif" ><a href="">What is Remote Record?</a>
+                <img src="arrow.gif"><a href="">Sky by broadband</a>
+                <img src="arrow.gif"><a href="">Sky by mobile</a>
+                <img src="arrow.gif"><a href="">What's on TV</a>
+                <img src="arrow.gif"><a href="">Contact Us</a>
+            </div>
+        </form>
+        </div>
+</body>
+</html>
