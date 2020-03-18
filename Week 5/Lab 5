@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Lab4 Form</h1>
+<form>
+    <p><font size="3" color="red">* required field</font></p>
+    <p>
+        Name :
+        <input type="text" placeholder="Please enter your name" name="name"><font size="3" color="red">  *</font><br><br>
+        E-mail :
+        <input type="text" placeholder="john.doe@gmail.com" name="name"><font size="3" color="red">  *</font><br><br>
+        Website :
+        <input type="text" name="name"><br><br>
+        Comment :
+        <textarea type="text" rows="4" cols="50" name="name"></textarea><br><br>
+        Gender :
+        <input type="radio" name="gender" value="male">Male <input type="radio" name="gender" value="female">Female
+        <p>
+        <input type="submit" value="Submit">
+        </p>
+    </p>
+</form>
+</body>
+</html>
