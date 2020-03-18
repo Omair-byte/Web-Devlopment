@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Website</title>
+    <!--This links html to stylesheet-->
+    <link rel="StyleSheet" href="Stylle.css">
+</head>
+<body>
+
+<div class="page_header">
+    <h1>Sarah and Israa Desktop</h1>
+</div>
+<div class="second_body">
+
+</div>
+
+</body>
+</html>
