@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:size="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>RTE</title>
+    <link rel="stylesheet" type="text/css"  href="style.css">
+</head>
+<body>
+<style>
+    hr.new1{
+        border-top: 1px dotted lightgrey;
+        top:-47px;
+        position: relative;
+    }
+    hr.new2{
+        border-top: 1px dotted lightgrey;
+        top:-70px;
+        position: relative;
+        width: 350px;
+        left: -190px;
+    }
+    h3.head{
+        color: darkblue;
+    }
+</style>
+        <div class="top">
+            <img src="top.jpg">
+            <img src="banner.jpg">
+        </div>
+        <div class="date">
+            <p>Updated: 11:37, Sunday, 10 March 2013</p>
+            <hr color="grey" wi>
+        </div>
+        <div class="latest_n">
+            <a>Latest Stories</a>
+        </div>
+        <div class="latest_now">
+            <a>RTE News Now</a>
+        </div>
+        <hr class="new1">
+        <div class="property">
+            <img src="property.jpg">
+        </div>
+        <div class="afghan">
+            <div class="afghan_title"><h1 >US in talks with Afghan <br>Taliban in Qatar</h1><div class="news1"><img src="news1.jpg"height="60"></div></div>
+            <div class="afghan_time">
+            <span font-color="sandybrown">09:49</span>
+            <span> The afghan Taliban and the<br> United States have been holding talks in the Gulf Arab <br>state of Qatar</span>
+            </div>
+            <hr class="new2">
+        </div>
+        <div class="uhuru">
+            <div class="uhuru_title"><h1 >Uhuru Kenyatta wins <br>presidential election in<br>Kenya</h1><div class="news2"><img src="news2.jpg"height="60"></div></div>
+            <div class="uhuru_time">
+                <span font-color="sandybrown">09:49</span>
+                <span> Thedefeated candidate in Kenya's presidential<br> election, Raila Odinga, has said he will challenge the<br>result</span>
+            </div>
+            <hr class="new2">
+        </div>
+        <div class="property_text">
+            <h2>Property values website to go <br> live</h2>
+        </div>
+        <div class="highlights">
+            <h3>Highlights</h3>
+            <div class="capture"><img src="Capture.PNG"></div>
+            <div class="holdup">
+            <h3 class="head"> This Week In Pictures</h3>
+            <span>A selection of some of the<br> best images from around<br> the world this week</span>
+            <div class="beauty">
+                <img src="picoftheday.jpg">
+            </div>
+            </div>
+        </div>
+        <div class="search">
+            <input type="text" name="search" placeholder="Search RTE.ie" required="required" />
+        </div>
+        <div class="another">
+            <img src="color.jpg">
+        </div>
+</body>
+</html>
